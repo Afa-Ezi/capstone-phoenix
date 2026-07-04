@@ -89,7 +89,7 @@ This is the heart of it. Everything in the K8s lesson, done *for real*, plus har
 - [ ] **resources.requests + limits** on every container.
 - [ ] **RollingUpdate with `maxUnavailable: 0`** — prove zero dropped requests during a deploy.
 - [ ] **Ingress + TLS** via cert-manager + Let's Encrypt on **your real domain**
-      (Live at `https://taskapp.51.21.224.179.nip.io` using same-origin `/api` routing (backend and frontend share one Ingress host, avoiding CORS complexity)).
+      (Live at `https://taskapp.confidence.name.ng` using same-origin `/api` routing (backend and frontend share one Ingress host, avoiding CORS complexity)).
       A valid public certificate, not self-signed.
 - [ ] **Pinned image tags** (commit SHA or semver). `:latest` anywhere = automatic fail.
 
