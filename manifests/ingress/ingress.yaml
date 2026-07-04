@@ -9,10 +9,10 @@ spec:
   ingressClassName: nginx
   tls:
     - hosts:
-        - taskapp.51.21.224.179.nip.io
+        - taskapp.confidence.name.ng
       secretName: taskapp-tls
   rules:
-    - host: taskapp.51.21.224.179.nip.io
+    - host: taskapp.confidence.name.ng
       http:
         paths:
           - path: /api
