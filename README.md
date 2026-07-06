@@ -192,3 +192,17 @@ Start by reading the K8s lesson, then open `STRUCTURE.md`.
 
 SUBMISSION LINK:
 https://docs.google.com/forms/d/e/1FAIpQLSdp-5Zfvt431gY8m2L_MOZ7NQ-8zN2L3jvkgL7P3yP7-pd94Q/viewform?usp=header
+
+
+
+## Live Application
+
+**Live URL:** https://taskapp.confidence.name.ng
+
+### Landing Page
+
+![Landing Page](docs/EVIDENCE/Application-UI-running-on-browser.png)
+
+### Dashboard
+
+![Dashboard](docs/EVIDENCE/Application-Running-in-Browser.png)
