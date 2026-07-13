@@ -206,3 +206,19 @@ https://docs.google.com/forms/d/e/1FAIpQLSdp-5Zfvt431gY8m2L_MOZ7NQ-8zN2L3jvkgL7P
 ### Dashboard
 
 ![Dashboard](docs/EVIDENCE/Application-Running-in-Browser.png)
+## Live Deployment
+
+## Live Deployment
+
+This project was previously deployed at:
+
+https://taskapp.confidence.name.ng
+
+The cloud infrastructure has since been decommissioned to avoid ongoing cloud costs after completing the capstone.
+
+The repository contains the complete source code, Terraform infrastructure, Ansible automation, Kubernetes manifests, 
+Argo CD GitOps configuration, CI/CD workflows, and documentation required to recreate the deployment. The application was
+ deployed on a multi-node K3s Kubernetes cluster with HTTPS, automated deployments, health checks, persistent storage, 
+and high-availability features.
+
+
